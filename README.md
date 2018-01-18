@@ -1,5 +1,5 @@
 # Multi-class 3D panoramic Segments Annotator
-This is a web application for custom multi-class annotation. The current applied algorithm in back-end is GrabCut. We may switch to other more efficient algorithms later, but for the sake of completion of the application, we will keep use GrabCut for the moment. There is also a manual mode for fine-tuning.
+This is a web application for custom multi-class annotation. The current applied algorithm in back-end is Novanno. Several challenges are faced and solved, mainly will focus on the huge 3D pointCloud dataset manipulation. There is a manual mode for fine-tuning.
 
 
 ### Installation
